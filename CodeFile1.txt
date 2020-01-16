@@ -11,4 +11,14 @@ public class C1
      var s = "stirngexample";
 }
 }
+public class C2
+{
+	public void Perform()
+{
 
+}
+	public void Perform2()
+{
+     var s = "stirngexample";
+}
+}
